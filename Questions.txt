@@ -1,0 +1,5 @@
+1)How to make MAP visualization?
+right click on location ->Geographic role ->Country/Region
+Drag Latitude in Rows and longitude in col
+2)How to forecast
+Click on Analysis -> Forecast -> SHow forecast
